@@ -1,0 +1,40 @@
+{
+  "name": "webprogram",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "core-js": "^3.6.5",
+    "element-plus": "^2.0.3",
+    "gsap": "^3.9.1",
+    "mitt": "^3.0.0",
+    "normalize.css": "^8.0.1",
+    "remixicon": "^2.5.0",
+    "three": "^0.137.5",
+    "vue": "^3.0.0",
+    "vue-router": "^4.0.0-0",
+    "vue3-lazy": "^1.0.0-alpha.1",
+    "vuex": "^4.0.0-0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-router": "~4.5.0",
+    "@vue/cli-plugin-typescript": "~4.5.13",
+    "@vue/cli-plugin-vuex": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "@vue/compiler-sfc": "^3.0.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "prettier": "^2.5.1",
+    "typescript": "~4.1.5"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
